@@ -1,0 +1,19 @@
+'New Balance ML574LUE', 2690, 41.5
+'Umbro Boty Runner Royal/Sil', 1709, 44.5
+'Columbia Peakfreak Venture', 2999, 43.5
+'KEEN Basin Wp Jr', 2209, 37.0
+'Vans Atwood Low (Canvas) Black/Black', 1450, 36.0
+'Umbro Boty Runner 2 White', 2429, 44.0
+'Puma ST Trainer Evo Demi v2 Corduroy', 1749, 41.0
+'Mammut Pordoi Mid Women', 2659, 37.3
+'Salomon Rx Break Lime Punch/Cloisonné', 1339, 42.7
+'Nike MD Runner 2 (PS) Pre-School Shoe', 1009, 27.5
+'Nike Women\'S Benassi "Just Do It" Sandal', 689, 38.0
+'Crocs Crocband', 1269, 41.0
+"Nike Women'S Kawa Shower Sandal", 509, 39.0
+'KEEN Galleo Mid Wp M', 4599, 41.0
+'Crocs Yukon Mesa Clog M', 1520, 45.5
+'Converse Chuck Taylor All Star Dainty', 1609, 35.5
+'KEEN Newport H2 K Racer Gray', 1499, 25.5
+'KEEN Revel III M', 3859, 43.0
+'KEEN Wanderer Mid Wp M', 4049, 44.5
