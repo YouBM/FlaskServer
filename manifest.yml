@@ -1,5 +1,5 @@
 ---
 applications:
- - name: GetStartedPython
+ - name: FlaskServer
    random-route: true
    memory: 128M
