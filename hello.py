@@ -74,7 +74,7 @@ def put_visitor():
     if client:
         data = {'name':user}
         db.create_document(data)
-        return 'Hello %s! I added you to the database.' % user
+        return 'Hi %s! I added you to the database.' % user
     else:
         print('No database')
         return 'Hello %s!' % user
