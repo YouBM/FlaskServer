@@ -77,7 +77,7 @@ def put_visitor():
         return 'Hi %s! I added you to the database.' % user
     else:
         print('No database')
-        return 'Hello %s!' % user
+        return 'Hi %s!' % user
 
 @atexit.register
 def shutdown():
