@@ -77,7 +77,52 @@ def put_visitor():
         return 'Hi %s! I added you to the database.' % user
     else:
         print('No database')
-        return 'Hi %s!' % user
+        
+        return '''
+<div style="border: 2px gray solid; background-color: #ddd;">
+<h1>You have searched for Nike Reax 8 TR 42.5:</h1>
+<a href="https://www.mall.cz/obuv/nike-reax-8-tr-425"><img src="https://www.mall.cz/i/39895704/1000/1000"></a> <br>
+</div>
+
+<h2> We think you could like the following products:</h2>
+
+<hr>
+
+<h3>1. Nike AIR PRECISION NBK 41</h3> <br>
+<a href="https://www.mall.cz/obuv/nike-air-precision-nbk-41"><img src="https://www.mall.cz/i/39921121/1000/1000"></a> <br>
+<hr>
+
+<h3>2. Nike RunAllDay Running Shoe 41</h3> <br>
+<a href="https://www.mall.cz/obuv/nike-runallday-running-shoe-41"><img src="https://www.mall.cz/i/39882153/1000/1000"></a> <br>
+<hr>
+
+<h3>3. Puma 365 CT Jr Black Safety 28</h3> <br>
+<a href="https://www.mall.cz/obuv/puma-365-ct-jr-black-safety-28"><img src="https://www.mall.cz/i/40072330/1000/1000"></a> <br>
+<hr>
+
+<h3>4. Mizuno Synchro MD 2 Black/White/Green 41</h3> <br>
+<a href="https://www.mall.cz/obuv/mizuno-synchro-md-2-blackwhitegreen-41"><img src="https://www.mall.cz/i/36471888/1000/1000"></a> <br>
+<hr>
+
+<h3>5. Puma Enzo Mesh Black White 41</h3> <br>
+<a href="https://www.mall.cz/obuv/puma-enzo-mesh-black-white-41"><img src="https://www.mall.cz/i/39966033/1000/1000"></a> <br>
+<hr>
+
+<h3>6. New Balance MT620GT 41,5</h3> <br>
+<a href="https://www.mall.cz/obuv/newbalance-mt620gt-415"><img src="https://www.mall.cz/i/39881673/1000/1000"></a> <br>
+<hr>
+
+<h3>7. Nike Zoom Evidence Basketball Shoe 41</h3> <br>
+<a href="https://www.mall.cz/obuv/nike-zoom-evidence-basketball-shoe-41"><img src="https://www.mall.cz/i/39881673/1000/1000"></a> <br>
+<hr>
+
+<h3>8. Puma Mega NRGY Knit Black Asphalt 41</h3> <br>
+<a href="https://www.mall.cz/obuv/puma-mega-nrgy-knit-black-asphalt-41"><img src="https://www.mall.cz/i/39966211/1000/1000"></a> <br>
+<hr>
+
+<img src="http://files.nar.cz/mall-cz.jpg">
+<img src="https://www.pagerduty.com/wp-content/uploads/2017/04/logo-bluemix.png">
+'''
 
 @atexit.register
 def shutdown():
